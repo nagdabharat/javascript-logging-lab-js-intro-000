@@ -1,1 +1,1 @@
-calls console.log("logging")
+calls console.error("HALP!")
